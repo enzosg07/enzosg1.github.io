@@ -8,7 +8,7 @@ Football and technonlogy passion
 
 ### More Information
 
-Living proof that Spotsmen are good programmers...
+Living proof that Sportsmen are good programmers...
 
 ### Contact me
 
