@@ -8,8 +8,8 @@ Football and technonlogy passion
 
 ### More Information
 
-Living proof that musicians are good programmers...
+Living proof that Spotsmen are good programmers...
 
 ### Contact me
 
-[mta@challoners.org](mailto:mta@challoners.org)
+[ben.stallard@challoners.org](mailto:ben.stallard@challoners.org)
