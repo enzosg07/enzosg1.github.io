@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Team Leader: "The Arts and Design" at Dr Challoner's Grammar School
+Football and technonlogy passion
 
 ### More Information
 
