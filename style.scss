@@ -41,11 +41,11 @@ table, td {
 }
 
 table, th {
-    border-radius: 3px;
-    border-collapse: collapse;
-    padding: 15px;
-    background: linear-gradient(to bottom, #ffffff, #f2f2f2);
-    text-align: left;
+   color: #ededed;     
+	background: #000000;     
+	height:50px;     
+	vertical-align: middle;
+	border: 1px solid #ededed;
 }
 
 iframe {
