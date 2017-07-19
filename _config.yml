@@ -9,7 +9,7 @@ name: Ben Stallard
 description: Ben the Blogger
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:"https://media.giphy.com/media/vjjCsx3izfSyQ/giphy.gif"
+avatar:https://media.giphy.com/media/vjjCsx3izfSyQ/giphy.gif
 
 #
 # Flags below are optional
