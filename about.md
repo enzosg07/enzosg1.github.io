@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Football and technonlogy passion
+The ting goes skrrrrrt
 
 ### More Information
 
-Living proof that Sportsmen are good programmers...
+7 foot god
 
 ### Contact me
 
-[ben.stallard@challoners.org](mailto:ben.stallard@challoners.org)
+[enzo.schaeffergorrie@challoners.org](mailto:enzo.schaeffergorrie@challoners.org)
